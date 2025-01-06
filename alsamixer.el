@@ -5,8 +5,8 @@
 ;; Author: R.W. van 't Veer
 ;; Created: 18 Jun 2013
 ;; Keywords: convenience
-;; Version: 0.1
-;; URL: https://github.com/remvee/alsamixer-el
+;; Version: 0.2.1
+;; URL: https://codeberg.org/rwv/alsamixer-el
 
 ;; This program is free software; you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License
